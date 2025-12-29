@@ -1,7 +1,6 @@
-## Title of the Project
-Mental Health Application Using Explainable Artificial Intelligence (XAI)
+## Mental Health Application Using Explainable Artificial Intelligence (XAI)
 
-## Description:
+## Description
 
 The Mental Health Application using XAI is a web-based system designed to assess stress, anxiety, and depression levels using machine learning while ensuring transparency through explainable AI techniques. The application enhances trust by clearly explaining how predictions are generated, supporting early awareness and mental well-being.
 
@@ -64,11 +63,11 @@ To overcome the lack of transparency in traditional AI systems, Explainable Arti
 * Version Control: Git
 
 ## System Architecture
-<img width="1103" height="687" alt="image" src="https://github.com/user-attachments/assets/117165a8-d5e4-467b-96b0-2298c280c07f" />
+<img width="1487" height="840" alt="image" src="https://github.com/user-attachments/assets/9d4f8f93-ed7c-46f7-a010-46b1af28ca62" />
+
 
 ## Output
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 - LOGIN PAGE
 <img width="1919" height="1027" alt="image" src="https://github.com/user-attachments/assets/23cae3a7-822d-471a-a8d3-3d264c1ace8b" />
 
